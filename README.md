@@ -8,7 +8,6 @@ It determines whether a given single-bit function `f(x)` is **constant** or **ba
 ## 📘 Files
 
 - **Qiskit_Deutsch.ipynb** – Main Jupyter Notebook implementing the Deutsch Algorithm.
-- *(Optional)* `/images/` – For circuit and Bloch sphere visualizations.
 
 ---
 
@@ -88,8 +87,3 @@ Try the following tasks to deepen your understanding:
 
 5. **Compare Classical vs Quantum Queries**  
    Implement a classical function evaluator and compare the number of queries needed to classify the function type.
----
-
-## 🌐 Repository Link
-
-🔗 [Qiskit_Deutsch](https://github.com/YOUR_GITHUB_USERNAME/Qiskit_Deutsch)
